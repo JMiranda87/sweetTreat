@@ -1,0 +1,66 @@
+body{
+    background-image: url("https://images.pexels.com/photos/5874691/pexels-photo-5874691.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+    
+
+}
+
+/* Style the container */
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Style the heading */
+.heading {
+    font-size: 36px;
+    font-weight: lighter;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+/* Style the paragraph */
+.paragraph{
+    font-size: 25px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(158, 62, 134, 0.147);
+}
+
+/* Style the image */
+.about-image {
+    width: 100%;
+    max-width: 200px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the container for text */
+.text-container {
+    text-decoration: line-through;
+}
+
+/* Style the container for the entire section */
+.about-section {
+    padding: 40px 0;
+    background-color: #d12a2a;
+}
+p{
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    
+}
